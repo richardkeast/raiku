@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "haikufy": "latest",
+    "syllable": "latest",
     "lodash": "^4.13.1",
     "slackbots": "^0.5.0"
   }
